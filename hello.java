@@ -1,7 +1,9 @@
 import java.io.*;
-public class hello-andrea{
+public class hello{
 
     public static void main(String[] args) {
+        System.out.println("Hello Andrea!");
+        System.out.println("Hello Andrea!");
         System.out.println("Hello Andrea!");
     }
 }
